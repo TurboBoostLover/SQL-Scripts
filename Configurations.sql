@@ -1,0 +1,1 @@
+exec upGetUpdateClientSetting @setting = 'AllowAnonymousAllFieldsReport', @newValue = 1, @clientId = 1, @valuedatatype = 'bit', @section = 'Reports'
